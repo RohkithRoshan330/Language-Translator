@@ -1,0 +1,34 @@
+Prédiction de séries temporelles
+
+La prévision de séries temporelles consiste à prédire ou anticiper les valeurs futures sur une période donnée. Cela implique de développer des modèles basés sur des données antérieures et de les appliquer pour faire des observations et orienter les décisions stratégiques futures.
+
+La prévision de séries temporelles est également un domaine important de l'apprentissage automatique (ML) et peut être considérée comme un problème d'apprentissage supervisé. Des méthodes d'ML telles que la régression, les réseaux neuronaux, les machines à vecteurs de support, les forêts aléatoires et XG Boost peuvent être appliquées à cela.
+
+La prévision de séries temporelles est une technique de prédiction d'événements à travers une séquence temporelle. Elle prédit les événements futurs en analysant les tendances du passé, en supposant que les tendances futures seront similaires aux tendances historiques.
+
+La prévision de séries temporelles dans l'apprentissage automatique implique de créer des hypothèses et des interprétations sur des données données. Elle utilise le modèle le mieux adapté pour prédire les observations futures en fonction du traitement complexe des données actuelles et antérieures.
+
+Domaine
+
+L'énergie est un composant critique du développement économique d'un pays. Elle est largement utilisée dans les domaines agricoles et connexes tels que la fabrication et la livraison d'engrais, d'insecticides et de machines agricoles. Elle est nécessaire dans les foyers pour la cuisson, l'éclairage et la chaleur. Le charbon, le pétrole, le gaz naturel, l'uranium et l'électricité sont tous des matériaux combustibles qui peuvent être utilisés pour produire de l'énergie.
+
+La prévision de la demande d'électricité joue un rôle essentiel dans l'industrie électrique. En effet, elle fournit la base pour la prise de décisions dans la planification et l'exploitation des systèmes électriques.
+
+La prévision de la consommation d'électricité a une fonction critique dans la planification des investissements énergétiques du gouvernement. Sous-estimer la consommation d'électricité pourrait entraîner une augmentation des dépenses opérationnelles et des pannes d'énergie, tandis que surestimer la consommation gaspillerait des ressources financières. Par conséquent, développer un modèle précis pour prédire la consommation d'électricité est essentiel pour minimiser les inefficacités potentiellement coûteuses.
+
+Autres modèles
+
+Moyenne mobile intégrée autorégressive (ARIMA)
+ARIMA est un modèle largement utilisé pour l'analyse de séries temporelles. C'est un modèle statistique qui utilise les valeurs passées pour prédire les valeurs futures d'une série temporelle. Le modèle fonctionne bien lorsque les données ont une tendance claire, une saisonnalité et sont stationnaires. ARIMA nécessite des données stationnaires, ce qui peut être difficile à obtenir en pratique.
+
+Utilisation : Pour prévoir les prix des actions, la prévision météorologique, l'analyse économique.
+
+Moyenne mobile intégrée autorégressive saisonnière (SARIMA)
+SARIMA est une extension de ARIMA conçue pour gérer les données de séries temporelles avec des motifs saisonniers. Elle est largement utilisée dans des domaines comme les ventes au détail et le marketing pour prévoir les ventes pour des saisons spécifiques. SARIMA nécessite une grande quantité de données historiques pour construire des modèles précis.
+
+Utilisation : Pour prévoir les ventes saisonnières au détail, prédire la demande de certains produits pendant des saisons spécifiques.
+
+
+
+
+
